@@ -1,0 +1,64 @@
+Grading at Sun Dec 20 18:54:56 UTC 2020
+**Testing broken implementation 10 **
+-------------------------------------
+
+Failed on power1
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+Failed on power5
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+Failed on power1
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+Failed on power1
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+Failed on power2
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+Failed on power6
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+Failed on power1
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+Failed on power3
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+Failed on power1
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+Failed on power1
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+Failed on power1
+
+**Testing correct implementation **
+-------------------------------------
+
+
+All tests were ok.
+
+
+Overall Grade: PASSED
