@@ -1,0 +1,16 @@
+Grading at Mon Jun  7 04:52:29 UTC 2021
+Running 'make clean' to do a clean build of your project
+rm -rf *.o poker *~
+Running 'make poker OTHERFLAGS=-O3' to build your project
+gcc -Wall -Werror -ggdb3 -std=gnu99 -pedantic -O3   -c -o cards.o cards.c
+gcc -Wall -Werror -ggdb3 -std=gnu99 -pedantic -O3   -c -o deck.o deck.c
+gcc -Wall -Werror -ggdb3 -std=gnu99 -pedantic -O3   -c -o eval.o eval.c
+eval.c: In function ‘compare_hands’:
+eval.c:203:2: error: expected ‘}’ before ‘else’
+  else{
+  ^
+<builtin>: recipe for target 'eval.o' failed
+make: *** [eval.o] Error 1
+make failed
+
+Overall Grade: F

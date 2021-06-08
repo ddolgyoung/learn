@@ -1,0 +1,504 @@
+loop 1:
+input[0] Kh As 3s 2c 8d 
+input[1] 0s 9c 2c 8d 7s 
+win  [3] 
+
+loop 2:
+input[0] As Kh 0d 9s Js 
+input[1] 0s 9c 0d 3h Js 
+win  [2] 
+
+loop 3:
+input[0] As Kh 6h 0h 4d 
+input[1] 6h 0h 0s 9c 2s 
+win  [2] 
+
+loop 4:
+input[0] As Kh Ah Jd 2h 
+input[1] Ah 0s 9c Jd Jh 
+win  [3] 
+
+loop 5:
+input[0] 8h As Kh 4c Ah 
+input[1] 8h 4c 4d 0s 9c 
+win  [3] 
+
+loop 6:
+input[0] 0h As Kh 2s 4d 
+input[1] 0s 9c 2s 4d Ad 
+win  [3] 
+
+loop 7:
+input[0] As Kh 7s 5h 4d 
+input[1] 6d 0s 9c 5h 4d 
+win  [3] 
+
+loop 8:
+input[0] As Kh 4s 2c Jc 
+input[1] 0s 9c Jh 2c Jc 
+win  [2] 
+
+loop 9:
+input[0] As Kh 5c Qc Jh 
+input[1] 5c 4d 0s 9c Jh 
+win  [3] 
+
+loop 10:
+input[0] As Kh Ks 5c 2h 
+input[1] 5c 0s 9c 2h 6c 
+win  [3] 
+
+loop 11:
+input[0] As Kh 3d 8c 6d 
+input[1] 0s 9c 3s 8c 6d 
+win  [3] 
+
+loop 12:
+input[0] As Kh 0d Jd 4h 
+input[1] 0s 9c 0d Jd 7h 
+win  [2] 
+
+loop 13:
+input[0] As Kh 4c 2s Jc 
+input[1] 4c 2s 0s 9c 9d 
+win  [2] 
+
+loop 14:
+input[0] As Kh 0h Ks 4s 
+input[1] 0s 9c Ah Ks 4s 
+win  [3] 
+
+loop 15:
+input[0] As Kh 4d 2c 6d 
+input[1] Ks 4d 0s 9c 6d 
+win  [3] 
+
+loop 16:
+input[0] As Kh Qc Ks Qd 
+input[1] 5d 0s 9c Qc Ks 
+win  [3] 
+
+loop 17:
+input[0] As Kh Ad 8h Qh 
+input[1] Ad 8h 0s 9c 3s 
+win  [3] 
+
+loop 18:
+input[0] 5d As Kh 2h 3d 
+input[1] 5d 0s 9c 3d Jd 
+win  [3] 
+
+loop 19:
+input[0] As Kh 9s 8h 8s 
+input[1] 9h 0s 9c 9s 8h 
+win  [2] 
+
+loop 20:
+input[0] As Kh 5d 8d Ah 
+input[1] 0s 9c 3h 5d 8d 
+win  [3] 
+
+loop 21:
+input[0] 6c As Kh 6h 8c 
+input[1] 0s 9c 6h 8c Ad 
+win  [3] 
+
+loop 22:
+input[0] As Kh 4s Jh 4h 
+input[1] 6s 0s 9c 4s 4h 
+win  [3] 
+
+loop 23:
+input[0] As Kh 4s Ad 2d 
+input[1] 0s 9c 2h Ad 2d 
+win  [3] 
+
+loop 24:
+input[0] 6h As Kh 0c Kd 
+input[1] 6h 0s 9c Kd Jd 
+win  [3] 
+
+loop 25:
+input[0] As 7d Kh Jh 5s 
+input[1] 7d 7c 0s 9c 5s 
+win  [2] 
+
+loop 26:
+input[0] As Kh Ks 4c 6s 
+input[1] 0s 9c 0c 4c 6s 
+win  [3] 
+
+loop 27:
+input[0] As Kh 7s 9d 3c 
+input[1] 7c 0s 9c 9d 3c 
+win  [2] 
+
+loop 28:
+input[0] As Kh 6d Ah Jc 
+input[1] 0s 9c 6d 4c Jc 
+win  [3] 
+
+loop 29:
+input[0] 5c As Kh Ad 4h 
+input[1] Ad 0s 9c 4h 6h 
+win  [3] 
+
+loop 30:
+input[0] 5c As Kh 4c 9d 
+input[1] 5c 0s 9c Qh 9d 
+win  [2] 
+
+loop 31:
+input[0] As Kh 9h 6c 3s 
+input[1] 6d 0s 9c 9h 6c 
+win  [2] 
+
+loop 32:
+input[0] As Kh 9h 6h 2d 
+input[1] 0s 9c 9h 6h 3c 
+win  [2] 
+
+loop 33:
+input[0] As Kh 9h 6d 8s 
+input[1] 0s 9c 9h 6d Qd 
+win  [2] 
+
+loop 34:
+input[0] As Kh Qc 3s 0c 
+input[1] 8d 0s 9c Qc 0c 
+win  [2] 
+
+loop 35:
+input[0] As Kh Ks 3c 9s 
+input[1] Ks 3c 0s 9c 2c 
+win  [3] 
+
+loop 36:
+input[0] As Kh 9h 0h 9d 
+input[1] 9h 0s 9c 9d Qd 
+win  [2] 
+
+loop 37:
+input[0] As Kh Jh 2h 6h 
+input[1] 4d 0s 9c 2h 6h 
+win  [3] 
+
+loop 38:
+input[0] As Kh 8h 9h Kd 
+input[1] 0s 9c 9h 7c Kd 
+win  [3] 
+
+loop 39:
+input[0] As 8d Kh 7s 5d 
+input[1] 8d 0s 9c 7s 3h 
+win  [3] 
+
+loop 40:
+input[0] As Kh 8c 8h Qc 
+input[1] 0s 9c 8c 8h 2s 
+win  [3] 
+
+loop 41:
+input[0] As Kh 6d 4s 0h 
+input[1] 0s 9c 4s 0h 8c 
+win  [2] 
+
+loop 42:
+input[0] As Kh 4h 3s 2h 
+input[1] 4h 0s 9c Jd 2h 
+win  [3] 
+
+loop 43:
+input[0] As Kh 2h 6h 6s 
+input[1] 7c 0s 9c 2h 6s 
+win  [3] 
+
+loop 44:
+input[0] As Kh 7s 3s 5c 
+input[1] 0s 9c 3c 3s 5c 
+win  [2] 
+
+loop 45:
+input[0] As Kh 2c Qh Ah 
+input[1] 0s 9c Qh 5d Ah 
+win  [3] 
+
+loop 46:
+input[0] 4h As Kh 0h 4d 
+input[1] 4h 0h 0s 9c 0d 
+win  [2] 
+
+loop 47:
+input[0] As Kh Qc 4d Jd 
+input[1] Jh Qc 0s 9c Jd 
+win  [2] 
+
+loop 48:
+input[0] As Kh 8d Qd 8h 
+input[1] 8d Qd 8s 0s 9c 
+win  [3] 
+
+loop 49:
+input[0] As Kh 8d 4c 6s 
+input[1] 8d 0s 9c 4c Qc 
+win  [3] 
+
+loop 50:
+input[0] As Kh 9s 5c 8c 
+input[1] 2c 0s 9c 9s 8c 
+win  [2] 
+
+loop 51:
+input[0] As Kh Ah 5h 0d 
+input[1] 0s 9c Ah 5h 7d 
+win  [3] 
+
+loop 52:
+input[0] Jh As Kh 9h 4s 
+input[1] Jh 0s 9c 4h 4s 
+win  [2] 
+
+loop 53:
+input[0] As Kh 2c 8s 2s 
+input[1] 2c 0s 9c 7d 2s 
+win  [3] 
+
+loop 54:
+input[0] As Kh Qd 3d 7d 
+input[1] 0s 9c 5c 3d 7d 
+win  [3] 
+
+loop 55:
+input[0] As Kh Qc 8s Qh 
+input[1] 0s 9c 8s 8h Qh 
+win  [3] 
+
+loop 56:
+input[0] As Kh 9d 8c 2h 
+input[1] 8c 0s 9c 3d 2h 
+win  [3] 
+
+loop 57:
+input[0] As Kh 7s 8s 5s 
+input[1] 0s 9c 8s 3d 5s 
+win  [3] 
+
+loop 58:
+input[0] As Kh Qh 4h 3c 
+input[1] 0s 9c Qh 3c Qc 
+win  [2] 
+
+loop 59:
+input[0] As Kh Jd Qd 3s 
+input[1] 0h Jd 0s 9c 3s 
+win  [2] 
+
+loop 60:
+input[0] As Kh 0d 8h Jc 
+input[1] 8h 2c 0s 9c Jc 
+win  [3] 
+
+loop 61:
+input[0] As Kh 2s 0h 9h 
+input[1] 2s 0s 9c 9h 8s 
+win  [2] 
+
+loop 62:
+input[0] As Kh Jh 2h 7h 
+input[1] 0s 9c 2h Js 7h 
+win  [3] 
+
+loop 63:
+input[0] As Kh 4c Kd 3s 
+input[1] 3d 0s 9c Kd 3s 
+win  [3] 
+
+loop 64:
+input[0] As Ah Kh Ad 0c 
+input[1] Ah 0s 9c 9d 0c 
+win  [3] 
+
+loop 65:
+input[0] 4h 8c As Kh Ad 
+input[1] 8c Ad 0s 9c 9d 
+win  [3] 
+
+loop 66:
+input[0] Ah As Kh 8s Qc 
+input[1] Ah 0s 9c 5c 8s 
+win  [3] 
+
+loop 67:
+input[0] Qd As Kh Ks 3h 
+input[1] Qd 0s 9c 3h 9d 
+win  [3] 
+
+loop 68:
+input[0] As Kh Ks 2c 2h 
+input[1] 2c 0s 9c 5c 2h 
+win  [3] 
+
+loop 69:
+input[0] As Kh 6d 2d 3d 
+input[1] 0s 9c 8s 2d 3d 
+win  [3] 
+
+loop 70:
+input[0] As Kh 2d 4c 2c 
+input[1] 0s 9c 4d 4c 2c 
+win  [2] 
+
+loop 71:
+input[0] As Kh 9s 9h 7d 
+input[1] 0s 9c 9s Qc 9h 
+win  [2] 
+
+loop 72:
+input[0] As Kh Jc 6s 2h 
+input[1] 8h 0s 9c Jc 6s 
+win  [3] 
+
+loop 73:
+input[0] As Kh 7h 8c 7c 
+input[1] 7h 0s 9c 5s 8c 
+win  [3] 
+
+loop 74:
+input[0] As Kh 4c 5s 5c 
+input[1] 0s 9c 4c 5c 7d 
+win  [3] 
+
+loop 75:
+input[0] As Kh 5c 2c 5s 
+input[1] 0s 9c 4s 5c 5s 
+win  [3] 
+
+loop 76:
+input[0] As Kh 6c 4h Qd 
+input[1] 0s 9c 6c 4h 2s 
+win  [3] 
+
+loop 77:
+input[0] As Kh 2d 5c 4h 
+input[1] 0s 9c 5c 4h 0d 
+win  [2] 
+
+loop 78:
+input[0] As Kh Kd 8s 9s 
+input[1] 3h 0s 9c Kd 8s 
+win  [3] 
+
+loop 79:
+input[0] As Ks Kh 4c 2s 
+input[1] Ks 0s 9c 2s 8c 
+win  [3] 
+
+loop 80:
+input[0] As Kh 4s 8h 3s 
+input[1] 4s 0s 9c 4h 3s 
+win  [2] 
+
+loop 81:
+input[0] As Kh 6h Qd 4d 
+input[1] 0s 9c 8c Qd 4d 
+win  [3] 
+
+loop 82:
+input[0] As Kh 8h 4d 0h 
+input[1] 8h 0s 9c 3d 0h 
+win  [2] 
+
+loop 83:
+input[0] As Kh 2h Ad Qs 
+input[1] 2h 0s 9c Ad 0c 
+win  [3] 
+
+loop 84:
+input[0] 8c As Kh Js 7d 
+input[1] 8c 9h 0s 9c 7d 
+win  [2] 
+
+loop 85:
+input[0] As Kh 3d 7d 2h 
+input[1] 0s 9c 9s 7d 2h 
+win  [2] 
+
+loop 86:
+input[0] As Kh Kd Ah Ad 
+input[1] 0s 9c 6s Kd Ad 
+win  [3] 
+
+loop 87:
+input[0] 7d 2s As 2h Kh 
+input[1] 7d 2h 0s 9c 9s 
+win  [2] 
+
+loop 88:
+input[0] As Kh 9d 7d 8c 
+input[1] 0s 9c Ah 9d 7d 
+win  [2] 
+
+loop 89:
+input[0] As Kh 2d 8c 2c 
+input[1] Js 0s 9c 2d 2c 
+win  [3] 
+
+loop 90:
+input[0] As Kh 8c 7h Qh 
+input[1] 8d 0s 9c 7h Qh 
+win  [3] 
+
+loop 91:
+input[0] As Kh 6c 5h 0d 
+input[1] 6c 0s 9c Qc 0d 
+win  [2] 
+
+loop 92:
+input[0] As Kh 8h 9s Jc 
+input[1] 5d 8h 0s 9c 9s 
+win  [2] 
+
+loop 93:
+input[0] As Kh Js 6c 6s 
+input[1] 0s 9c 6c 6s 9h 
+win  [2] 
+
+loop 94:
+input[0] As Kh 3c 5h 2c 
+input[1] 0s 9c 4h 5h 2c 
+win  [3] 
+
+loop 95:
+input[0] As Kh 8s 2s 0c 
+input[1] 0s 9c 8s 5s 0c 
+win  [2] 
+
+loop 96:
+input[0] As Kh 5c Ah 4s 
+input[1] 5c 0s 9c Ah 8d 
+win  [3] 
+
+loop 97:
+input[0] 4c As Kh Qc 7c 
+input[1] 4c 0s 9c 6s Qc 
+win  [3] 
+
+loop 98:
+input[0] As Kh 6d Qd Qh 
+input[1] 6d 0s 9c 8d Qh 
+win  [3] 
+
+loop 99:
+input[0] As Kh 0c 6d Jc 
+input[1] 6d 0s 9c 4h Jc 
+win  [3] 
+
+loop 100:
+input[0] As Kh 5h 8s 7h 
+input[1] 5h 0s 9c 7h 3s 
+win  [3] 
+
+Hand 0 won 0 / 100 times (0.00%)
+Hand 1 won 0 / 100 times (0.00%)
+Hand 2 won 36 / 100 times (36.00%)
+And there were 64 ties
